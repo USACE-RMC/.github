@@ -1,6 +1,6 @@
 ![Foster Dam](https://user-images.githubusercontent.com/123974306/232249601-8671f52c-2f70-4835-921e-309fa844c97d.JPG)
 
-Welcome to the U.S. Army Corps of Engineers (USACE) Risk Management Center (RMC) organization. This GitHub site hosts the RMC risk analysis software suite for Dam and Levee Safety programs. 
+Welcome to the U.S. Army Corps of Engineers (USACE) Risk Management Center (RMC) organization. This GitHub site hosts the RMC risk analysis software suite and other supporting open source projects. 
 
 ***
 
